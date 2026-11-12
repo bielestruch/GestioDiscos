@@ -6,6 +6,8 @@
 
 ![alt text](image-2.png)
 
-## ![alt text](image-3.png)
+![alt text](image-3.png)
 
-Creo els discs de 10 GB intalo el Lvms2
+![alt text](image-4.png)
+
+Creo els discs de 10 GB intalo el Lvms2 instalo lvm2 i creo el volums fisics i creo un grup de volums amb els dos discos
